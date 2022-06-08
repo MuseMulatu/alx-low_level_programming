@@ -1,4 +1,9 @@
-#include "main.h";                                                                                                                               
+#include "main.h" 
+/**
+ * main -Entry point
+ * Description: putchar '_putchar \n'
+ * Return: 0
+ */
 int main(void)                                                                                                                         
 {
 char str[] = "_putchar\n";
