@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  *  * main - Entry point
- *   * Return: 0
+ *  * Return: 0
  **/
 
 int main(void)
@@ -15,7 +15,7 @@ int main(void)
 
 				if (n > 0)
 
-					printf("Last digit of %d iss 8 and is greater than 5\n", n);
+					printf("Last digit of %d is 8 and is greater than 5\n", n);
 
 				else if (n < 0)
 
