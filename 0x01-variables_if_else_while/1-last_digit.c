@@ -13,7 +13,7 @@ int main(void)
 		srand(time(0));
 				n = rand() - RAND_MAX / 2;
 
-				if (n == 0)
+				if (n == 98)
 
 					printf("Last digit of %d is 8 and is greater than 5\n", n);
 
@@ -23,7 +23,7 @@ int main(void)
 
 				else
 
-					printf("Last digit of %d is and is 0\n", n);
+					printf("Last digit of %d is 0 and is 0\n", n);
 
 				return (0);
 
